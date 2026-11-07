@@ -1,0 +1,9 @@
+CITIZEN ASSIST — FINAL BUILD (CHATBOT REMOVED)
+
+1. Upload/import this project to your GitHub repository.
+2. In Vercel, import the repository and deploy it as a static website.
+3. No GEMINI_API_KEY or GEMINI_MODEL variables are needed.
+4. The chatbot UI, chatbot JavaScript, Vercel API endpoint and Netlify chatbot function have been removed.
+5. Existing services, service search, PIN/API PIN search, guides, official portal links, FAQ, contact form and accessibility features are retained.
+
+Note: Citizen Assist is an independent guidance website and does not submit government applications.

@@ -1,0 +1,10 @@
+{
+  "name": "citizen-assist-node-api-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional Node.js API demo for Citizen Assist; existing static website remains unchanged.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
