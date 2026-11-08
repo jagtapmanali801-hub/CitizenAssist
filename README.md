@@ -45,11 +45,12 @@ https://jagtapmanali801-hub.github.io/CitizenAssist/#home
 **GitHub Repository:**  
 https://github.com/jagtapmanali801-hub/CitizenAssist?utm_source=chatgpt.com
 
-## Project Screenshots
+
+### Citizen Assist – Home Page
 
 Screenshots of the website can be added here to demonstrate its interface and functionality.
 
-screenshots/homepage.png
+![Citizen Assist Homepage]<img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/7ea8d6d0-f635-4e9c-94b8-46825c7e30e1" />
 
 
 ## My Individual Contribution
