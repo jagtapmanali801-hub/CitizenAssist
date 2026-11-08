@@ -40,16 +40,17 @@ Add the exact technologies used in your final website:
 ## Website Deployment
 
 **Live Website:**  
-https://citizen-assist-final-v8-fixed.vercel.app/
+https://jagtapmanali801-hub.github.io/CitizenAssist/#home
 
 **GitHub Repository:**  
-https://github.com/jagtapmanali801-hub/CitizenAssist
+https://github.com/jagtapmanali801-hub/CitizenAssist?utm_source=chatgpt.com
 
 ## Project Screenshots
 
 Screenshots of the website can be added here to demonstrate its interface and functionality.
 
-<!-- Add your website screenshots here -->
+![Uploading image.png…]()
+
 
 ## My Individual Contribution
 
