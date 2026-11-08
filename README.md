@@ -1,12 +1,20 @@
-# Citizen Assist — Final Static Build (Chatbot Removed)
+---
 
-Citizen Assist is an independent guidance website for Maharashtra government services. This build keeps the existing service directory, search, PIN/API PIN search, official portal links, service guides, language selection, accessibility tools, FAQs, and contact form. The chatbot and its backend endpoints have been removed.
+## Project Credits
 
-## Run locally
-Open `index.html` in a browser, or serve this folder with any static web server. No build step or chatbot API key is required.
+### Website Developer
+Manali Jagtap
 
-## Deploy to Vercel
-Import this project/folder into Vercel as a static site. No `GEMINI_API_KEY` or `GEMINI_MODEL` environment variables are required.
+### Project Details
+Citizen Assist was developed as a
+Semester 5 team-based academic project.
 
-## Important
-Citizen Assist is independent and does not submit or approve government applications. Portal links are official government/department starting points; broad service labels may lead to a department portal rather than a direct application form. Confirm current requirements on the destination portal.
+### My Contribution
+- Complete Website Development
+- Website Design and Implementation
+- Frontend Development
+- Website Deployment
+
+### Team Acknowledgement
+Developed as a collaborative academic
+project with my team members.
