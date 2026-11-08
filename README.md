@@ -49,7 +49,7 @@ https://github.com/jagtapmanali801-hub/CitizenAssist?utm_source=chatgpt.com
 
 Screenshots of the website can be added here to demonstrate its interface and functionality.
 
-![Uploading image.png…]()
+screenshots/homepage.png
 
 
 ## My Individual Contribution
